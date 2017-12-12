@@ -3,6 +3,8 @@ project(Problem_5_1 C)
 
 set(CMAKE_C_STANDARD 11)
 
+
+
 add_executable(Problem_5_1 main.c)
 
 find_package(OpenMP)
